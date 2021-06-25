@@ -9,5 +9,5 @@ This repo is used to submit proposal for Final Project mobile computing course t
 5. The complete proposal contains: Project Name, Explanation of the Project, Target segment, and what the app featured. 
 6. Inside personal student directory put initiwal wireframe of your app, then link the images from personal README.md. 
 
-### Student Name
-I want to create an app which stores and quantify werehouse items. Immediate following student please discard this section during your push. 
+### 1313617007
+I want to create an adzan application which also contain compass for point to kiblah
